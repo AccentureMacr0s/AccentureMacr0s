@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 # Hands-On IT Operations and DevOps Labs
-## Welcome to our comprehensive suite of hands-on labs designed for learning and mastering various IT operations and DevOps practices. This README outlines ten practical labs covering a range of technologies including AWS Systems Manager, Kubernetes, Chef, Packer, Bash scripting, and Continuous Integration with GitLab.
+ Welcome to comprehensive suite of hands-on labs designed for learning and mastering various IT operations and DevOps practices. This README outlines ten practical labs covering a range of technologies including AWS Systems Manager, Kubernetes, Chef, Packer, Bash scripting, and Continuous Integration with GitLab.
 
 # Lab Overview
 1. AWS Systems Manager (SSM) - Patch Management
