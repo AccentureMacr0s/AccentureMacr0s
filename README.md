@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AccentureMacr0s
+- 👋 Hi, I’m Dmitry
 - 👀 I’m interested in ... DevOps
 - 🌱 I’m currently learning ... Chef 
 - 💞️ I’m looking to collaborate on ... Network
@@ -40,20 +40,10 @@ Key Tasks: Write a playbook, run against servers, verify configuration, explore 
 10. Monitoring - Setting Up Prometheus and Grafana
 Objective: Implement monitoring with Prometheus and Grafana.
 Key Tasks: Install Prometheus, set up Grafana, create dashboards, configure alerts.
-Getting Started
-To begin with these labs:
 
-Clone this repository to your local machine.
-Navigate to the specific lab directory you wish to start with.
-Follow the instructions in the lab's README.
-Prerequisites
-Basic knowledge of cloud computing, Linux/Unix, and scripting.
-Access to an AWS account for AWS-related labs.
-Installation of necessary tools and software as per lab requirements.
-Contribution
-Feel free to contribute to these labs by submitting pull requests or opening issues for any improvements or suggestions.
+# Getting Started
+## Prerequisites to begin with these labs:
 
-License
-MIT License
-
-
+- Basic knowledge of cloud computing, Linux/Unix, and scripting.
+- Access to an AWS account for AWS-related labs.
+- Installation of necessary tools and software as per lab requirements.
